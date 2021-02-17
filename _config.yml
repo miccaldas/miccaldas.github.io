@@ -28,7 +28,7 @@ url: "https://constantconstipation.club" # the base hostname & protocol for your
 twitter_username: twitter_is_evil
 
 # Build settings
-theme: minima
+remote theme: Biu-Jekyll-Theme 
 plugins:
   - jekyll-feed
 
